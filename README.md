@@ -1,2 +1,2 @@
 # IOD Assignments
- This Repository is for IOD assignments and notebook works
+ This repository is for Insitution Of Data assignments and notebook works
